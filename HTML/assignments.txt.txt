@@ -1,0 +1,13 @@
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments>dir /b /s
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\iOS
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\MEAN
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\netCore
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\Python
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\readMe.txt
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\Ruby
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\WebFundamentals
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\WebFundamentals\CSS
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\WebFundamentals\Git
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\WebFundamentals\HTML
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\WebFundamentals\Javascript
+C:\Users\jinal\Desktop folders\Desktop\DojoAssignments\WebFundamentals\HTML\indentation.html
